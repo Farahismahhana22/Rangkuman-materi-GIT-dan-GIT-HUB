@@ -2,3 +2,13 @@
 1.	Mern Stack adalah kombinasi dari sebuah library atau frame book yang dibangun menggunakan spa script.
 2.	Web Programming adalah progam yang aplikasinya jalan diweb. Seperti website semacam situs, tampilan web yang bisa mendapatkan informasi. Dan web Aplication seperti youtube.
 3.	Pada HTML (Hyper Text Markup Languange) terdapat rangaian markup yang ditampilkan dan memberitahu browser bagaimana sebuah konten akan ditampilkan. Yang mana HTML dibuat untuk struktur ssebuah halaman dan menyajikan konten.
+
+	Fundamental merupakan perintah dasar yang sering dilakukan untuk mengoperasikan GIT. Yang mana ada fundamental ini memiliki banyak manfaat yaitu bisa mempercepat dalam mengerjakan proyek.
+Pada fundamental memiliki beberapa macam tag command list yaitu :
+1.	Git Init digunakan sebagai inisialisasi, dimana master pada git init merupakan branch.
+2.	Git Config digunakan sebagai konfigurasi email dan username.
+3.	Git Status digunakan untuk mengetahui status file.
+4.	Git add . digunakan untuk memasukkan file ke staging area.
+5.	Git commit digunakan untuk mencatat perubahan yang akan dilakukan.
+6.	Git commit -m digunakan untuk menambahkan file seperti “index.html” pada vscode.
+7.	Git log digunakan untuk melihat Riwayat yang sudah di commit.
