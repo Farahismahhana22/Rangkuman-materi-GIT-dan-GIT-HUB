@@ -12,3 +12,13 @@ Pada fundamental memiliki beberapa macam tag command list yaitu :
 5.	Git commit digunakan untuk mencatat perubahan yang akan dilakukan.
 6.	Git commit -m digunakan untuk menambahkan file seperti “index.html” pada vscode.
 7.	Git log digunakan untuk melihat Riwayat yang sudah di commit.
+
+	Branch adalah cabang/copyan dari repository. Branc dibutuhkan saat mengembangkan fitur baru.
+Pembahasan branch :
+1.	Git branch digunakan untuk melihat branch local
+2.	Git branch –all digunakan untuk melihat semua branch public
+3.	Git branch ama_branch digunakan untuk membuat branch baru
+4.	Git checkout nama_branch digunakan untukberpindah branch
+5.	Git branch -d nama_branch digunakan untuk menghapus branch
+6.	Git merge nama_branch digunakan untuk menggabungkan commitdari 2 branch.
+
