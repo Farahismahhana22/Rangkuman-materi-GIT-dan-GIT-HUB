@@ -22,3 +22,4 @@ Pembahasan branch :
 5.	Git branch -d nama_branch digunakan untuk menghapus branch
 6.	Git merge nama_branch digunakan untuk menggabungkan commitdari 2 branch.
 
+GUI adalah software berbasis GUI untuk memudahkan dalam mengoperasikan GIT.
